@@ -1,0 +1,16 @@
+# VS Code
+.vscode/
+
+# Environment directories
+.env
+
+# Dependency directories
+vendor/
+node_modules/
+
+# logs
+*.log
+
+# System Files
+.DS-Stores
+Thumbs.db
